@@ -1,1 +1,1 @@
-print('sdcvdsf')
+print('Hello word')
